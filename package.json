@@ -1,0 +1,29 @@
+{
+  "name": "precluding-turtle",
+  "version": "0.0.0",
+  "description": "npm test",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevDevDave/precluding-turtle.git"
+  },
+  "author": "David Cunliffe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevDevDave/precluding-turtle/issues"
+  },
+  "homepage": "https://github.com/DevDevDave/precluding-turtle#readme"
+}
